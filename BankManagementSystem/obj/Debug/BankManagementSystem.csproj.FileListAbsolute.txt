@@ -1,0 +1,15 @@
+C:\Users\podis\OneDrive\Desktop\Project5 Banck Management\BankManagementSystem\BankManagementSystem\bin\Debug\BankManagementSystem.exe.config
+C:\Users\podis\OneDrive\Desktop\Project5 Banck Management\BankManagementSystem\BankManagementSystem\bin\Debug\BankManagementSystem.exe
+C:\Users\podis\OneDrive\Desktop\Project5 Banck Management\BankManagementSystem\BankManagementSystem\bin\Debug\BankManagementSystem.pdb
+C:\Users\podis\OneDrive\Desktop\Project5 Banck Management\BankManagementSystem\BankManagementSystem\obj\Debug\BankManagementSystem.csproj.AssemblyReference.cache
+C:\Users\podis\OneDrive\Desktop\Project5 Banck Management\BankManagementSystem\BankManagementSystem\obj\Debug\BankManagementSystem.AboutForm.resources
+C:\Users\podis\OneDrive\Desktop\Project5 Banck Management\BankManagementSystem\BankManagementSystem\obj\Debug\BankManagementSystem.ContactForm.resources
+C:\Users\podis\OneDrive\Desktop\Project5 Banck Management\BankManagementSystem\BankManagementSystem\obj\Debug\BankManagementSystem.ExchangeRateForm.resources
+C:\Users\podis\OneDrive\Desktop\Project5 Banck Management\BankManagementSystem\BankManagementSystem\obj\Debug\BankManagementSystem.LinksForForms.resources
+C:\Users\podis\OneDrive\Desktop\Project5 Banck Management\BankManagementSystem\BankManagementSystem\obj\Debug\BankManagementSystem.MainForm.resources
+C:\Users\podis\OneDrive\Desktop\Project5 Banck Management\BankManagementSystem\BankManagementSystem\obj\Debug\BankManagementSystem.Properties.Resources.resources
+C:\Users\podis\OneDrive\Desktop\Project5 Banck Management\BankManagementSystem\BankManagementSystem\obj\Debug\BankManagementSystem.RegistrationForm.resources
+C:\Users\podis\OneDrive\Desktop\Project5 Banck Management\BankManagementSystem\BankManagementSystem\obj\Debug\BankManagementSystem.csproj.GenerateResource.cache
+C:\Users\podis\OneDrive\Desktop\Project5 Banck Management\BankManagementSystem\BankManagementSystem\obj\Debug\BankManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\podis\OneDrive\Desktop\Project5 Banck Management\BankManagementSystem\BankManagementSystem\obj\Debug\BankManagementSystem.exe
+C:\Users\podis\OneDrive\Desktop\Project5 Banck Management\BankManagementSystem\BankManagementSystem\obj\Debug\BankManagementSystem.pdb
